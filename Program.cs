@@ -13,7 +13,7 @@ namespace WhatsappMsg
 
             
             const string accountSid = "YourAccountSid";
-            const string authToken = "5c590f16112063f61d250d980dfa";
+            const string authToken = "YourAuthToken";
 
 
             TwilioClient.Init(accountSid, authToken);
