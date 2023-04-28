@@ -9,7 +9,7 @@ namespace WhatsappMsg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello WhatsApp");
+            Console.WriteLine("Wait.. Loading WhatsApp API");
 
             
             const string accountSid = "YourAccountSid";
