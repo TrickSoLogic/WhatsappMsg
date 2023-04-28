@@ -22,7 +22,7 @@ namespace WhatsappMsg
             var message = MessageResource.Create(
                 from: new Twilio.Types.PhoneNumber("whatsapp:(countrycodewithsendernumber"),
                 body: "Hello! Black Coder",
-                 to: new Twilio.Types.PhoneNumber("whatsapp:+9187")
+                 to: new Twilio.Types.PhoneNumber("whatsapp:(CountryCodewithreceivernumberWhichisAuthenticated)")
             );
 
 
