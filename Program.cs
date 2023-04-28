@@ -12,7 +12,7 @@ namespace WhatsappMsg
             Console.WriteLine("Hello WhatsApp");
 
             
-            const string accountSid = "AC0d285817bb37f597f090dd51eba59c";
+            const string accountSid = "YourAccountSid";
             const string authToken = "5c590f16112063f61d250d980dfa";
 
 
